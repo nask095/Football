@@ -1,0 +1,28 @@
+﻿  Football.cpp
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(70): warning C4101: 'saraty': unreferenced local variable
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(911): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(915): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(928): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(932): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(945): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(949): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(962): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(966): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1036): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1066): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1083): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1100): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1117): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1167): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1183): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1201): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1219): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1237): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1252): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1266): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1294): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1312): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1330): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1350): warning C4018: '<': signed/unsigned mismatch
+c:\users\atanas\documents\aubg\4 semester\fundamental\project\football\football\football.cpp(1382): warning C4018: '<': signed/unsigned mismatch
+  Football.vcxproj -> C:\Users\Atanas\Documents\aubg\4 semester\Fundamental\project\Football\Debug\Football.exe
